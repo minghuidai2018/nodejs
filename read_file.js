@@ -8,3 +8,6 @@ fs.readFile(filename, 'utf8', function(err, fileContent) {
         console.log('got file content:', fileContent);
     }
 });
+
+var msg = 'hellow';
+
