@@ -1,0 +1,9 @@
+{
+    "nsmr": "node-js-demo-app",
+    "version": "1.0.0",
+    "dependencies": {
+        "request": "*",
+        "nano": "3.3.*",
+        "async": "2.6.1"
+    }
+}
